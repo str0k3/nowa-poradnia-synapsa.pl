@@ -1,7 +1,7 @@
 title: "Poradnia Psychologiczna dla Dzieci"
 description: "Profesjonalna pomoc psychologiczna dla dzieci i młodzieży."
-baseurl: ""
-url: "https://example.com" # Replace with actual URL later
+baseurl: "/nowa-poradnia-synapsa.pl"
+url: "https://str0k3.github.io"
 lang: pl
 encoding: "utf-8"
 
