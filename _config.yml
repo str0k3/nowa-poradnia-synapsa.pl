@@ -1,0 +1,15 @@
+title: "Poradnia Psychologiczna dla Dzieci"
+description: "Profesjonalna pomoc psychologiczna dla dzieci i młodzieży."
+baseurl: ""
+url: "https://example.com" # Replace with actual URL later
+lang: pl
+encoding: "utf-8"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-seo-tag
