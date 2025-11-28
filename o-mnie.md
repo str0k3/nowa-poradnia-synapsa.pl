@@ -6,7 +6,7 @@ permalink: /o-mnie/
 
 <section class="about-section" style="padding: 4rem 0;">
     <div class="container">
-        <h1 style="margin-bottom: 2rem;">O Mnie</h1>
+        <h1 style="margin-bottom: 2rem;">O mnie</h1>
         <div style="display: flex; align-items: flex-start; gap: 3rem; flex-wrap: wrap;">
             <div style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
                 <img src="{{ "/img/about.png" | relative_url }}" alt="Gabinet psychologiczny" style="max-width: 100%; max-height: 400px; border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); object-fit: cover;">

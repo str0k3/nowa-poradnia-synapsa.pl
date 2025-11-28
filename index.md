@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Strona Główna
+title: Strona główna
 description: "Poradnia psychologiczna dla dzieci i młodzieży. Profesjonalna pomoc w przyjaznej atmosferze."
 ---
 
