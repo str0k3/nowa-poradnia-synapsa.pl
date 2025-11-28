@@ -4,15 +4,17 @@ title: Strona Główna
 description: "Poradnia psychologiczna dla dzieci i młodzieży. Profesjonalna pomoc w przyjaznej atmosferze."
 ---
 
-<section class="hero" style="text-align: center; padding: 4rem 0;">
-    <div class="container">
-        <h1>Wspieramy małe kroki w wielkim świecie</h1>
-        <p style="font-size: 1.2rem; margin-bottom: 2rem; max-width: 600px; margin-left: auto; margin-right: auto;">
-            Profesjonalna pomoc psychologiczna dla dzieci i młodzieży w bezpiecznej i przyjaznej atmosferze.
-        </p>
-        <img src="{{ "/img/hero.png" | relative_url }}" alt="Dziecko bawiące się klockami" style="margin: 0 auto; max-width: 600px; border-radius: 16px;">
-        <div style="margin-top: 2rem;">
-            <a href="{{ "/kontakt/" | relative_url }}" class="button" style="background: var(--color-accent-red); color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: bold;">Umów wizytę</a>
+<section class="hero" style="padding: 4rem 0;">
+    <div class="container" style="display: flex; align-items: center; justify-content: space-between; gap: 3rem; flex-wrap: wrap-reverse;">
+        <div style="flex: 1; min-width: 300px; text-align: left;">
+            <h1 style="font-size: 2.5rem; line-height: 1.2; margin-bottom: 1.5rem;">Wspieramy małe i duże kroki w dorosłość</h1>
+            <p style="font-size: 1.1rem; margin-bottom: 2rem; color: #555;">
+                Profesjonalna pomoc psychologiczna dla dzieci, młodzieży i młodych dorosłych. Tworzymy przestrzeń pełną zrozumienia i akceptacji.
+            </p>
+            <a href="{{ "/kontakt/" | relative_url }}" class="button" style="background: var(--color-accent-red); color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: bold; display: inline-block;">Umów wizytę</a>
+        </div>
+        <div style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
+            <img src="{{ "/img/hero.png" | relative_url }}" alt="Młodzież w przyjaznej atmosferze" style="max-width: 100%; max-height: 400px; border-radius: 16px; object-fit: contain;">
         </div>
     </div>
 </section>
