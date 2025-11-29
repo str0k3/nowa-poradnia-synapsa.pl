@@ -3,7 +3,7 @@
     --color-text: #1d1d1b;
     --color-bg: #ffffff;
     --color-bg-alt: #f9f9f9;
-    
+
     --color-accent-red: #db0f31;
     --color-accent-purple: #7d368a;
     --color-accent-yellow: #f1b708;
@@ -39,7 +39,12 @@ body {
     line-height: 1.6;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: var(--font-heading);
     font-weight: 700;
     margin-bottom: var(--spacing-md);
@@ -59,18 +64,34 @@ img {
 }
 
 /* Utility Classes */
-.text-center { text-align: center; }
-.mt-lg { margin-top: var(--spacing-lg); }
-.mb-lg { margin-bottom: var(--spacing-lg); }
+.text-center {
+    text-align: center;
+}
+
+.mt-lg {
+    margin-top: var(--spacing-lg);
+}
+
+.mb-lg {
+    margin-bottom: var(--spacing-lg);
+}
 
 /* Navigation */
 header {
     padding: var(--spacing-md) 0;
-    background: var(--color-bg);
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     position: sticky;
     top: 0;
     z-index: 100;
+    transition: box-shadow 0.3s ease, background 0.3s ease;
+}
+
+header.scrolled {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    background: rgba(255, 255, 255, 0.98);
 }
 
 nav {
@@ -79,8 +100,22 @@ nav {
     align-items: center;
 }
 
+.logo {
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+.logo:hover {
+    transform: translateY(-2px);
+}
+
 .logo img {
     height: 50px;
+    transition: filter 0.3s ease;
+}
+
+.logo:hover img {
+    filter: drop-shadow(0 4px 8px rgba(125, 54, 138, 0.2));
 }
 
 .nav-links {
@@ -89,45 +124,126 @@ nav {
     list-style: none;
 }
 
+.nav-links li {
+    position: relative;
+}
+
 .nav-links a {
     text-decoration: none;
     color: var(--color-text);
     font-weight: 500;
-    transition: color 0.3s;
+    padding: 0.5rem 0.75rem;
+    display: inline-block;
+    position: relative;
+    transition: color 0.3s ease, transform 0.2s ease;
+}
+
+/* Animated underline effect */
+.nav-links a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--color-accent-purple), var(--color-accent-green));
+    transition: width 0.3s ease, left 0.3s ease;
+    border-radius: 2px;
 }
 
 .nav-links a:hover {
     color: var(--color-accent-purple);
+    transform: translateY(-1px);
+}
+
+.nav-links a:hover::after {
+    width: 100%;
+    left: 0;
+}
+
+/* Active page indicator */
+.nav-links a.active {
+    color: var(--color-accent-purple);
+    font-weight: 600;
+}
+
+.nav-links a.active::after {
+    width: 100%;
+    left: 0;
+    background: var(--color-accent-purple);
 }
 
 /* Mobile Menu (Hidden by default on desktop) */
 .mobile-menu-toggle {
     display: none;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: var(--color-text);
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.mobile-menu-toggle:hover {
+    color: var(--color-accent-purple);
+    transform: scale(1.1);
 }
 
 @media (max-width: 768px) {
     .nav-links {
-        display: none; /* Implement JS toggle later */
+        display: none;
         flex-direction: column;
         position: absolute;
         top: 100%;
         left: 0;
         right: 0;
-        background: var(--color-bg);
+        background: rgba(255, 255, 255, 0.98);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
         padding: var(--spacing-md);
-        box-shadow: 0 4px 4px rgba(0,0,0,0.1);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+        gap: 0;
+        animation: slideDown 0.3s ease-out;
     }
-    
+
     .nav-links.active {
         display: flex;
     }
 
+    .nav-links li {
+        width: 100%;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    }
+
+    .nav-links li:last-child {
+        border-bottom: none;
+    }
+
+    .nav-links a {
+        width: 100%;
+        padding: 1rem;
+        text-align: left;
+    }
+
+    .nav-links a::after {
+        left: 0;
+        bottom: 0.5rem;
+    }
+
     .mobile-menu-toggle {
         display: block;
-        background: none;
-        border: none;
-        font-size: 1.5rem;
-        cursor: pointer;
+    }
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
     }
 }
 

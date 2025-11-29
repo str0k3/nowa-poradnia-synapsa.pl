@@ -8,8 +8,49 @@ document.addEventListener('DOMContentLoaded', function() {
             navLinks.classList.toggle('active');
             const expanded = navLinks.classList.contains('active');
             menuToggle.setAttribute('aria-expanded', expanded);
+            // Animate hamburger icon
+            menuToggle.textContent = expanded ? '✕' : '☰';
+        });
+
+        // Close mobile menu when clicking outside
+        document.addEventListener('click', function(event) {
+            if (!event.target.closest('nav')) {
+                navLinks.classList.remove('active');
+                menuToggle.setAttribute('aria-expanded', 'false');
+                menuToggle.textContent = '☰';
+            }
         });
     }
+
+    // Active Page Highlighting
+    const currentPath = window.location.pathname;
+    const navLinksAll = document.querySelectorAll('.nav-links a');
+    
+    navLinksAll.forEach(link => {
+        const linkPath = new URL(link.href).pathname;
+        // Match exact path or if we're on homepage
+        if (linkPath === currentPath || 
+            (currentPath === '/' && linkPath === '/') ||
+            (currentPath.includes(linkPath) && linkPath !== '/')) {
+            link.classList.add('active');
+        }
+    });
+
+    // Header Scroll Effect
+    const header = document.querySelector('header');
+    let lastScroll = 0;
+
+    window.addEventListener('scroll', function() {
+        const currentScroll = window.pageYOffset;
+        
+        if (currentScroll > 50) {
+            header.classList.add('scrolled');
+        } else {
+            header.classList.remove('scrolled');
+        }
+        
+        lastScroll = currentScroll;
+    });
 
     // Cookie Consent
     const cookieConsent = document.getElementById('cookie-consent');
@@ -26,3 +67,4 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
+
