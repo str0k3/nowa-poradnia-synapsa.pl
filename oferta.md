@@ -75,8 +75,28 @@ permalink: /oferta/
             </div>
             
             <div class="service-card" style="border: 1px solid #eee; padding: 2rem; border-radius: 8px;">
-                <h3 style="color: var(--color-accent-green);">Wsparcie dla rodziców</h3>
-                <p>Konsultacje wychowawcze pomagające rodzicom lepiej zrozumieć swoje dziecko i radzić sobie z trudnościami wychowawczymi.</p>
+                <h3 style="color: var(--color-accent-green); margin-bottom: 1rem;">Psychoterapia rodzinna</h3>
+                
+                <p style="margin-bottom: 1rem; line-height: 1.7;">
+                    Cykl spotkań całego „zespołu", jakim jest rodzina, przydatny gdy <strong>trudności jednego z domowników</strong> (np. depresja, zaburzenia odżywiania czy lęki nastolatka) wpływają na funkcjonowanie całej rodziny. To również doskonałe narzędzie w sytuacjach <strong>kryzysów relacyjnych, trudnych zmian</strong> (rozwód, żałoba, przeprowadzka) lub gdy domowa atmosfera stała się po prostu napięta i czujecie, że jako rodzice „straciliście kontakt" ze swoim dzieckiem i chcecie odbudować wzajemne zaufanie.
+                </p>
+                
+                <p style="margin-bottom: 0.75rem; line-height: 1.7;">
+                    <strong style="color: var(--color-accent-green);">Dla kogo?</strong><br>
+                    Dla rodziców z dziećmi (również dorosłymi) oraz rodzeństwa.
+                </p>
+                
+                <p style="margin-bottom: 1rem; line-height: 1.7;">
+                    <strong style="color: var(--color-accent-green);">Cel:</strong><br>
+                    Przejście od wzajemnych pretensji do współpracy i wzmocnienia więzi.
+                </p>
+                
+                <div style="background: rgba(43, 162, 117, 0.05); padding: 1rem; border-radius: 6px; border-left: 3px solid var(--color-accent-green);">
+                    <p style="margin: 0; font-size: 0.95rem;">
+                        <strong>Czas trwania:</strong> 60 minut<br>
+                        <strong>Cena:</strong> 200 zł
+                    </p>
+                </div>
             </div>
             
             <div class="service-card" style="border: 1px solid #eee; padding: 2rem; border-radius: 8px;">
