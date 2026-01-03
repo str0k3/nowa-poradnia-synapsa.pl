@@ -13,14 +13,17 @@ permalink: /o-mnie/
             </div>
             <div style="flex: 1; min-width: 300px;">
                 <p style="margin-bottom: 1rem;">
-                    Nazywam się [Imię i Nazwisko] i jestem psychologiem dziecięcym z wieloletnim doświadczeniem. Moja praca to nie tylko zawód, ale przede wszystkim pasja wspierania dzieci i młodzieży w ich rozwoju.
+                    Jestem psychologiem z ponad 20-letnim doświadczeniem, specjalizującym się we wczesnej interwencji i wspieraniu rozwoju najmłodszych. Moja praca to towarzyszenie dzieciom, młodzieży oraz ich rodzicom w odkrywaniu ich wewnętrznej siły i wypracowywaniu rozwiązań, które przywracają harmonię w codziennym życiu.
                 </p>
                 <p style="margin-bottom: 1rem;">
-                    Ukończyłam psychologię na [Nazwa Uczelni] oraz liczne kursy doszkalające z zakresu terapii dzieci i młodzieży. W swojej pracy kieruję się empatią, szacunkiem i otwartością na potrzeby młodego człowieka i jego rodziny.
+                   W swojej praktyce łączę wiedzę akademicką (jestem absolwentką KUL, 2002 r.) z nowoczesnymi, skutecznymi metodami pracy:
+                   <ul>
+                   <li>Jestem praktykiem metody Kids’ Skills (Dam Radę!), która w radosny sposób pomaga dzieciom przezwyciężać trudności.</li>
+                   <li>Jestem psychoterapeutą w prcesie kształcenia i pracuję w nurcie Terapii Skoncentrowanej na Rozwiązaniach (TSR), koncentrując się na zasobach i możliwościach moich klientów, a nie tylko na ich deficytach.</li>
+                   </ul>
                 </p>
-                <h3 style="color: var(--color-accent-purple); margin-top: 2rem;">Moje podejście</h3>
-                <p>
-                    Wierzę, że kluczem do skutecznej terapii jest zbudowanie relacji opartej na zaufaniu. W moim gabinecie młodzi ludzie mogą czuć się bezpiecznie, wyrażać swoje emocje i uczyć się radzić sobie z trudnościami w atmosferze akceptacji.
+                <p style="margin-bottom: 1rem;">
+                Jako członek Polskiego Stowarzyszenia Terapeutów TSR oraz Rybnickiego Koła PSTTSR, nieustannie dbam o jakość mojej pracy. Swoje działania poddaję regularnej superwizji, co daje moim klientom pewność najwyższych standardów etycznych i merytorycznych.
                 </p>
             </div>
         </div>
