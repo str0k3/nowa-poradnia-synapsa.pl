@@ -58,17 +58,8 @@ permalink: /oferta/
                 </p>
                 
                 <p style="margin-bottom: 0.5rem; line-height: 1.7;">
-                    <strong style="color: var(--color-accent-purple);">W trakcie terapii możemy pracować m.in. nad:</strong>
+                    <strong style="color: var(--color-accent-purple);">W trakcie terapii możemy pracować m.in. nad:</strong> W trakcie terapii możemy pracować m.in. nadnzaburzeniami odżywiania, negatywnym obrazem własnego ciała, obniżonym nastrojem i stanami depresyjnym, zaburzeniami lękowymi, napadami paniki, nadmiernym stresem (np. szkolnym czy egzaminacyjnym), trudnościami w regulacji emocji, zachowaniami autoagresywnymi, wyzwaniami neuroróżnorodności oraz kryzysami relacyjnymi i tożsamościowymi.
                 </p>
-                
-                <ul style="margin-bottom: 1rem; margin-left: 1.5rem; line-height: 1.8;">
-                    <li style="margin-bottom: 0.5rem;"><strong>Zaburzeniami odżywiania</strong> – trudnościami w relacji z jedzeniem oraz negatywnym obrazem własnego ciała.</li>
-                    <li style="margin-bottom: 0.5rem;"><strong>Obniżonym nastrojem i stanami depresyjnymi</strong> – poczuciem beznadziei, brakiem energii i smutkiem.</li>
-                    <li style="margin-bottom: 0.5rem;"><strong>Zaburzeniami lękowymi</strong> – napadami paniki, lękiem społecznym oraz nadmiernym stresem (np. szkolnym czy egzaminacyjnym).</li>
-                    <li style="margin-bottom: 0.5rem;"><strong>Trudnościami w regulacji emocji</strong> – w tym z zachowaniami autoagresywnymi (samookaleczenia) oraz wybuchami złości.</li>
-                    <li style="margin-bottom: 0.5rem;"><strong>Wyzwaniami neuroróżnorodności</strong> – wspieram osoby z ADHD oraz w spektrum autyzmu w lepszym zrozumieniu swojego sposobu funkcjonowania i budowaniu strategii radzenia sobie w świecie.</li>
-                    <li style="margin-bottom: 0.5rem;"><strong>Kryzysami relacyjnymi i tożsamościowymi</strong> – trudnościami w kontaktach z rówieśnikami, niskim poczuciem własnej wartości czy poszukiwaniem własnej drogi.</li>
-                </ul>
                 
                 <p style="margin-bottom: 1rem; line-height: 1.7;">
                     <strong style="color: var(--color-accent-purple);">W czym pomagam?</strong><br>
