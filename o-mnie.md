@@ -22,8 +22,8 @@ Moja wiedza obejmuje również <strong>wczesną interwencję i wspieranie rozwoj
                    W swojej praktyce łączę wiedzę akademicką (jestem absolwentką KUL, 2002 r.) z nowoczesnymi, skutecznymi metodami pracy:
                 </p>
                 <ul style="margin-bottom: 1.5rem; margin-left: 1.5rem; line-height: 1.8;">
-                   <li style="margin-bottom: 0.5rem;">Jestem <strong>praktykiem metody Kids' Skills (Dam Radę!), która w radosny sposób pomaga dzieciom przezwyciężać trudności.</strong></li>
-                   <li style="margin-bottom: 0.5rem;">Jestem <strong>psychoterapeutą w procesie kształcenia i pracuję w nurcie Terapii Skoncentrowanej na Rozwiązaniach (TSR), koncentrując się na zasobach i możliwościach moich klientów, a nie tylko na ich deficytach.</strong></li>
+                   <li style="margin-bottom: 0.5rem;">Jestem <strong>praktykiem metody Kids' Skills (Dam Radę!)</strong>, która w radosny sposób pomaga dzieciom przezwyciężać trudności.</li>
+                   <li style="margin-bottom: 0.5rem;">Jestem <strong>psychoterapeutą w procesie kształcenia</strong> i pracuję w nurcie <strong>Terapii Skoncentrowanej na Rozwiązaniach (TSR)</strong>, koncentrując się na zasobach i możliwościach moich klientów, a nie tylko na ich deficytach.</li>
                 </ul>
                 <p style="margin-bottom: 1rem;">
                     Jako członek Polskiego Stowarzyszenia Terapeutów TSR oraz Rybnickiego Koła PSTTSR, nieustannie dbam o jakość mojej pracy. Swoje działania poddaję <strong>regularnej superwizji</strong>, co daje moim klientom pewność najwyższych standardów etycznych i merytorycznych.
