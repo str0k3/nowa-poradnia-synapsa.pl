@@ -14,7 +14,7 @@ permalink: /oferta/
                 </p>
             </div>
             <div style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
-                <img src="{{ "/img/services.png" | relative_url }}" alt="Wsparcie psychologiczne" style="max-width: 100%; max-height: 300px; border-radius: 16px; object-fit: contain;">
+                <img src="{{ "/img/services.webp" | relative_url }}" alt="Wsparcie psychologiczne" style="max-width: 100%; max-height: 300px; border-radius: 16px; object-fit: contain;">
             </div>
         </div>
         

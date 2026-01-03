@@ -14,7 +14,7 @@ description: "Poradnia psychologiczna dla dzieci i młodzieży. Profesjonalna po
             <a href="{{ "/kontakt/" | relative_url }}" class="button" style="background: var(--color-accent-red); color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: bold; display: inline-block;">Umów wizytę</a>
         </div>
         <div style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
-            <img src="{{ "/img/hero.png" | relative_url }}" alt="Młodzież w przyjaznej atmosferze" style="max-width: 100%; max-height: 400px; border-radius: 16px; object-fit: contain;">
+            <img src="{{ "/img/hero.webp" | relative_url }}" alt="Młodzież w przyjaznej atmosferze" style="max-width: 100%; max-height: 400px; border-radius: 16px; object-fit: contain;">
         </div>
     </div>
 </section>
