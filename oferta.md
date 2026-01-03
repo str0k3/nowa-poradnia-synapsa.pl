@@ -100,8 +100,43 @@ permalink: /oferta/
             </div>
             
             <div class="service-card" style="border: 1px solid #eee; padding: 2rem; border-radius: 8px;">
-                <h3 style="color: var(--color-accent-yellow);">Diagnoza psychologiczna</h3>
-                <p>Ocena rozwoju intelektualnego, emocjonalnego i społecznego przy użyciu standaryzowanych testów.</p>
+                <h3 style="color: var(--color-accent-yellow); margin-bottom: 1rem;">Trening Umiejętności Społecznych (TUS) dla dzieci</h3>
+                
+                <p style="margin-bottom: 1rem; line-height: 1.7;">
+                    Trening Umiejętności Społecznych to <strong>semestralny blok zajęć grupowych</strong>, podczas których dzieci w bezpiecznej i przyjaznej atmosferze uczą się, jak radzić sobie w codziennych sytuacjach z rówieśnikami. Podczas zajęć nie skupiamy się na „naprawianiu" trudnych zachowań, ale na <strong>odkrywaniu zasobów dziecka i trenowaniu nowych, skutecznych strategii działania</strong>. Poprzez zabawę i wspólne aktywności, pomagam dzieciom budować pewność siebie oraz czerpać radość z kontaktu z innymi.
+                </p>
+                
+                <p style="margin-bottom: 0.5rem; line-height: 1.7;">
+                    <strong style="color: var(--color-accent-yellow);">Dla kogo?</strong><br>
+                    Zapraszam dzieci w wieku <strong>5-8 lat</strong>, które na co dzień mierzą się z takimi wyzwaniami jak:
+                </p>
+                
+                <ul style="margin-bottom: 1rem; margin-left: 1.5rem; line-height: 1.8;">
+                    <li style="margin-bottom: 0.5rem;"><strong>Nieśmiałość i lęk społeczny</strong> (trudności z wejściem w grupę, nawiązywaniem rozmowy)</li>
+                    <li style="margin-bottom: 0.5rem;"><strong>Wyzwania neuroróżnorodności</strong> – wspieram dzieci z ADHD oraz w spektrum autyzmu w lepszym rozumieniu zasad społecznych</li>
+                    <li style="margin-bottom: 0.5rem;"><strong>Trudności w regulacji emocji</strong> – np. silne wybuchy złości, trudności z przegrywaniem czy radzeniem sobie z napięciem</li>
+                    <li style="margin-bottom: 0.5rem;"><strong>Trudności w stawianiu granic</strong> i asertywnym mówieniu o swoich potrzebach</li>
+                </ul>
+                
+                <p style="margin-bottom: 1rem; line-height: 1.7;">
+                    <strong style="color: var(--color-accent-yellow);">Co zyskuje dziecko?</strong><br>
+                    Dziecko dostaje konkretne „narzędzia" do radzenia sobie w świecie: uczy się, jak inicjować zabawę, jak współpracować w zespole, jak rozpoznawać emocje (swoje i innych) oraz jak rozwiązywać konflikty bez przemocy. Wszystko to odbywa się w atmosferze akceptacji, która wzmacnia poczucie własnej wartości dziecka.
+                </p>
+                
+                <div style="background: rgba(241, 183, 8, 0.1); padding: 1rem; border-radius: 6px; border-left: 3px solid var(--color-accent-yellow); margin-bottom: 1rem;">
+                    <p style="margin: 0; font-size: 0.95rem; line-height: 1.6;">
+                        <strong>📢 Ważna informacja:</strong> Aktualnie tworzymy grupy dobrane pod kątem wieku i potrzeb uczestników. Rekrutacja do nowej edycji Treningu Umiejętności Społecznych rozpocznie się już wkrótce! Zapraszam do kontaktu, aby zapisać się na listę osób zainteresowanych – poinformujemy Cię o terminach spotkań rekrutacyjnych w pierwszej kolejności.
+                    </p>
+                </div>
+                
+                <div style="background: rgba(241, 183, 8, 0.05); padding: 1rem; border-radius: 6px; border-left: 3px solid var(--color-accent-yellow);">
+                    <p style="margin: 0 0 0.5rem 0; font-size: 0.95rem;">
+                        <strong>Forma:</strong> Małe grupy (4–6 osób) dobrane wiekowo<br>
+                        <strong>Metoda:</strong> Nauka przez zabawę i doświadczanie, oparta na wzmacnianiu pozytywnych zachowań<br>
+                        <strong>Czas trwania:</strong> 60 minut<br>
+                        <strong>Cena:</strong> 100 zł
+                    </p>
+                </div>
             </div>
         </div>
     </div>
