@@ -57,8 +57,7 @@ permalink: /oferta/
                     Głównie dla <strong>nastolatków i osób wchodzących w dorosłość</strong>, które potrzebują bezpiecznego miejsca, by zrozumieć siebie i wypracować własne sposoby radzenia sobie z wyzwaniami. Prowadzę również terapię dzieci, wykorzystując metodę Kids' Skills.
                 </p>
                 
-                <p style="margin-bottom: 0.5rem; line-height: 1.7;">
-                    <strong style="color: var(--color-accent-purple);">W trakcie terapii możemy pracować m.in. nad:</strong> W trakcie terapii możemy pracować m.in. nadnzaburzeniami odżywiania, negatywnym obrazem własnego ciała, obniżonym nastrojem i stanami depresyjnym, zaburzeniami lękowymi, napadami paniki, nadmiernym stresem (np. szkolnym czy egzaminacyjnym), trudnościami w regulacji emocji, zachowaniami autoagresywnymi, wyzwaniami neuroróżnorodności oraz kryzysami relacyjnymi i tożsamościowymi.
+                <p W trakcie terapii możemy pracować m.in. nadnzaburzeniami odżywiania, negatywnym obrazem własnego ciała, obniżonym nastrojem i stanami depresyjnym, zaburzeniami lękowymi, napadami paniki, nadmiernym stresem (np. szkolnym czy egzaminacyjnym), trudnościami w regulacji emocji, zachowaniami autoagresywnymi, wyzwaniami neuroróżnorodności oraz kryzysami relacyjnymi i tożsamościowymi.
                 </p>
                 
                 <p style="margin-bottom: 1rem; line-height: 1.7;">
