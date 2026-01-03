@@ -24,7 +24,7 @@ permalink: /oferta/
                 <h3 style="color: var(--color-accent-red); margin-bottom: 1rem;">Konsultacja psychologiczna</h3>
                 
                 <p style="margin-bottom: 1rem; line-height: 1.7;">
-                    To spotkanie, podczas którego przyglądamy się Twojej sytuacji, nie skupiamy się wyłącznie na trudnościach, ale przede wszystkim na <strong>Twoich potrzebach, mocnych stronach i celu</strong>. Wspólnie szukamy kierunku, który pozwoli wypracować zmianę w Twoim życiu lub relacjach z bliskimi.
+                    Jednorazowe lub nieregularne (dostosowane do potrzeb) spotkania, podczas których przyglądamy się Twojej sytuacji, nie skupiamy się wyłącznie na trudnościach, ale przede wszystkim na <strong>Twoich potrzebach, mocnych stronach i celu</strong>. Wspólnie szukamy kierunku, który pozwoli wypracować zmianę w Twoim życiu lub relacjach z bliskimi.
                 </p>
                 
                 <p style="margin-bottom: 0.75rem; line-height: 1.7;">
@@ -49,7 +49,7 @@ permalink: /oferta/
                 <h3 style="color: var(--color-accent-purple); margin-bottom: 1rem;">Terapia indywidualna</h3>
                 
                 <p style="margin-bottom: 1rem; line-height: 1.7;">
-                    Regularne spotkania dla dzieci, młodzieży i młodych dorosłych, którzy mierzą się z <strong>wyzwaniami dorastania, kryzysami emocjonalnymi lub trudnościami w relacjach</strong>. W pracy indywidualnej stosuję podejście skoncentrowane na rozwiązaniach, co oznacza, że wspólnie odkrywamy Twoje zasoby i mocne strony oraz uczymy się nowych umiejętności.
+                    Regularne spotkania dla dzieci, młodzieży i młodych dorosłych, którzy mierzą się z <strong>wyzwaniami dorastania, kryzysami emocjonalnymi lub trudnościami w relacjach</strong>, podczas których wspólnie odkrywamy Twoje zasoby i mocne strony oraz uczymy się nowych umiejętności.
                 </p>
                 
                 <p style="margin-bottom: 0.75rem; line-height: 1.7;">
