@@ -58,7 +58,7 @@ permalink: /oferta/
                 </p>
                 
                 <p style="margin-bottom: 0.75rem; line-height: 1.7;">
-                W trakcie terapii możemy pracować m.in. nadnzaburzeniami odżywiania, negatywnym obrazem własnego ciała, obniżonym nastrojem i stanami depresyjnym, zaburzeniami lękowymi, napadami paniki, nadmiernym stresem (np. szkolnym czy egzaminacyjnym), trudnościami w regulacji emocji, zachowaniami autoagresywnymi, wyzwaniami neuroróżnorodności oraz kryzysami relacyjnymi i tożsamościowymi.
+                W trakcie terapii możemy pracować m.in. nad zaburzeniami odżywiania, negatywnym obrazem własnego ciała, obniżonym nastrojem i stanami depresyjnym, zaburzeniami lękowymi, napadami paniki, nadmiernym stresem (np. szkolnym czy egzaminacyjnym), trudnościami w regulacji emocji, zachowaniami autoagresywnymi, wyzwaniami neuroróżnorodności oraz kryzysami relacyjnymi i tożsamościowymi.
                 </p>
                 
                 <p style="margin-bottom: 1rem; line-height: 1.7;">
