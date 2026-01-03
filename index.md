@@ -21,17 +21,17 @@ description: "Poradnia psychologiczna dla dzieci i młodzieży. Profesjonalna po
 
 <section class="features" style="background: var(--color-bg-alt); padding: 4rem 0;">
     <div class="container">
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; margin-top: 2rem;">
-            <div class="feature-card" style="background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-                <h3 style="color: var(--color-accent-purple);">Indywidualne podejście</h3>
+        <div class="grid-features">
+            <div class="feature-card">
+                <h3 class="text-accent-purple">Indywidualne podejście</h3>
                 <p>Każde dziecko jest inne, dlatego wspólnie z rodzicami dostosowujemy metody pracy do jego unikalnych potrzeb.</p>
             </div>
-            <div class="feature-card" style="background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-                <h3 style="color: var(--color-accent-green);">Przyjazna atmosfera</h3>
+            <div class="feature-card">
+                <h3 class="text-accent-green">Przyjazna atmosfera</h3>
                 <p>Kameralny gabinet, w którym dzieci czują się bezpiecznie i swobodnie.</p>
             </div>
-            <div class="feature-card" style="background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-                <h3 style="color: var(--color-accent-orange);">Wieloletnie doświadczenie</h3>
+            <div class="feature-card">
+                <h3 class="text-accent-orange">Wieloletnie doświadczenie</h3>
                 <p>Praktyczne doświadczenie zdobyte w rolach psychologa szkolnego, kuratora sądowego oraz psychoterapeutki pozwala mi kompleksowo wspierać dzieci i młodzież w różnych sytuacjach życiowych.</p>
             </div>
         </div>
