@@ -18,7 +18,7 @@ permalink: /oferta/
             </div>
         </div>
         
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 2rem;">
 
             <div class="service-card" style="border: 1px solid #eee; padding: 2rem; border-radius: 8px; transition: transform 0.3s;">
                 <h3 style="color: var(--color-accent-red); margin-bottom: 1rem;">Konsultacja psychologiczna</h3>
