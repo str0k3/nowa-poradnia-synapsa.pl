@@ -29,7 +29,7 @@ permalink: /oferta/
                 
                 <p style="margin-bottom: 0.75rem; line-height: 1.7;">
                     <strong style="color: var(--color-accent-red);">Dla kogo?</strong><br>
-                    Zapraszam przede wszystkim <strong>młodzież szukającą wsparcia</strong>, rodziców chcących lepiej zrozumieć swoje dorastające dzieci oraz rodziny pragnące poprawić wzajemną komunikację. <em>(Pomoc oferuję również rodzicom najmłodszych dzieci w ramach wczesnego wspomagania rozwoju)</em>.
+                    Zapraszam przede wszystkim <strong>młodzież szukającą wsparcia</strong>, rodziców chcących lepiej zrozumieć swoje dorastające dzieci oraz rodziny pragnące poprawić wzajemną komunikację. Pomoc oferuję również rodzicom najmłodszych dzieci w ramach wczesnego wspomagania rozwoju.
                 </p>
                 
                 <p style="margin-bottom: 1rem; line-height: 1.7;">
@@ -46,8 +46,41 @@ permalink: /oferta/
             </div>
             
             <div class="service-card" style="border: 1px solid #eee; padding: 2rem; border-radius: 8px;">
-                <h3 style="color: var(--color-accent-purple);">Terapia indywidualna</h3>
-                <p>Regularne spotkania, podczas których pracujemy nad emocjami, zachowaniem i relacjami w bezpiecznej atmosferze.</p>
+                <h3 style="color: var(--color-accent-purple); margin-bottom: 1rem;">Terapia indywidualna</h3>
+                
+                <p style="margin-bottom: 1rem; line-height: 1.7;">
+                    Regularne spotkania dla dzieci, młodzieży i młodych dorosłych, którzy mierzą się z <strong>wyzwaniami dorastania, kryzysami emocjonalnymi lub trudnościami w relacjach</strong>. W pracy indywidualnej stosuję podejście skoncentrowane na rozwiązaniach, co oznacza, że wspólnie odkrywamy Twoje zasoby i mocne strony oraz uczymy się nowych umiejętności.
+                </p>
+                
+                <p style="margin-bottom: 0.75rem; line-height: 1.7;">
+                    <strong style="color: var(--color-accent-purple);">Dla kogo?</strong><br>
+                    Głównie dla <strong>nastolatków i osób wchodzących w dorosłość</strong>, które potrzebują bezpiecznego miejsca, by zrozumieć siebie i wypracować własne sposoby radzenia sobie z wyzwaniami. Prowadzę również terapię dzieci, wykorzystując metodę Kids' Skills.
+                </p>
+                
+                <p style="margin-bottom: 0.5rem; line-height: 1.7;">
+                    <strong style="color: var(--color-accent-purple);">W trakcie terapii możemy pracować m.in. nad:</strong>
+                </p>
+                
+                <ul style="margin-bottom: 1rem; margin-left: 1.5rem; line-height: 1.8;">
+                    <li style="margin-bottom: 0.5rem;"><strong>Zaburzeniami odżywiania</strong> – trudnościami w relacji z jedzeniem oraz negatywnym obrazem własnego ciała.</li>
+                    <li style="margin-bottom: 0.5rem;"><strong>Obniżonym nastrojem i stanami depresyjnymi</strong> – poczuciem beznadziei, brakiem energii i smutkiem.</li>
+                    <li style="margin-bottom: 0.5rem;"><strong>Zaburzeniami lękowymi</strong> – napadami paniki, lękiem społecznym oraz nadmiernym stresem (np. szkolnym czy egzaminacyjnym).</li>
+                    <li style="margin-bottom: 0.5rem;"><strong>Trudnościami w regulacji emocji</strong> – w tym z zachowaniami autoagresywnymi (samookaleczenia) oraz wybuchami złości.</li>
+                    <li style="margin-bottom: 0.5rem;"><strong>Wyzwaniami neuroróżnorodności</strong> – wspieram osoby z ADHD oraz w spektrum autyzmu w lepszym zrozumieniu swojego sposobu funkcjonowania i budowaniu strategii radzenia sobie w świecie.</li>
+                    <li style="margin-bottom: 0.5rem;"><strong>Kryzysami relacyjnymi i tożsamościowymi</strong> – trudnościami w kontaktach z rówieśnikami, niskim poczuciem własnej wartości czy poszukiwaniem własnej drogi.</li>
+                </ul>
+                
+                <p style="margin-bottom: 1rem; line-height: 1.7;">
+                    <strong style="color: var(--color-accent-purple);">W czym pomagam?</strong><br>
+                    W budowaniu poczucia własnej wartości, radzeniu sobie z silnymi emocjami, poprawie komunikacji z rówieśnikami i rodzicami oraz w odnajdywaniu motywacji do działania.
+                </p>
+                
+                <div style="background: rgba(125, 54, 138, 0.05); padding: 1rem; border-radius: 6px; border-left: 3px solid var(--color-accent-purple);">
+                    <p style="margin: 0; font-size: 0.95rem;">
+                        <strong>Czas trwania:</strong> 45 minut<br>
+                        <strong>Cena:</strong> 180 zł
+                    </p>
+                </div>
             </div>
             
             <div class="service-card" style="border: 1px solid #eee; padding: 2rem; border-radius: 8px;">
