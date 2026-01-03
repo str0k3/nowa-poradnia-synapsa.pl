@@ -10,7 +10,7 @@ permalink: /oferta/
             <div style="flex: 1; min-width: 300px;">
                 <h1 style="margin-bottom: 1rem;">Oferta</h1>
                 <p style="font-size: 1.1rem; color: #555;">
-                    Oferujemy kompleksową pomoc psychologiczną dostosowaną do wieku i potrzeb dziecka oraz nastolatka.
+                    Kompleksowa pomoc psychologiczna dostosowana do wieku i potrzeb.
                 </p>
             </div>
             <div style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
@@ -19,9 +19,30 @@ permalink: /oferta/
         </div>
         
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+
             <div class="service-card" style="border: 1px solid #eee; padding: 2rem; border-radius: 8px; transition: transform 0.3s;">
-                <h3 style="color: var(--color-accent-red);">Konsultacje psychologiczne</h3>
-                <p>Pierwsze spotkanie mające na celu rozpoznanie problemu i ustalenie planu działania. Przeznaczone dla rodziców, dzieci i młodzieży.</p>
+                <h3 style="color: var(--color-accent-red); margin-bottom: 1rem;">Konsultacja psychologiczna</h3>
+                
+                <p style="margin-bottom: 1rem; line-height: 1.7;">
+                    To spotkanie, podczas którego przyglądamy się Twojej sytuacji, nie skupiamy się wyłącznie na trudnościach, ale przede wszystkim na <strong>Twoich potrzebach, mocnych stronach i celu</strong>. Wspólnie szukamy kierunku, który pozwoli wypracować zmianę w Twoim życiu lub relacjach z bliskimi.
+                </p>
+                
+                <p style="margin-bottom: 0.75rem; line-height: 1.7;">
+                    <strong style="color: var(--color-accent-red);">Dla kogo?</strong><br>
+                    Zapraszam przede wszystkim <strong>młodzież szukającą wsparcia</strong>, rodziców chcących lepiej zrozumieć swoje dorastające dzieci oraz rodziny pragnące poprawić wzajemną komunikację. <em>(Pomoc oferuję również rodzicom najmłodszych dzieci w ramach wczesnego wspomagania rozwoju)</em>.
+                </p>
+                
+                <p style="margin-bottom: 1rem; line-height: 1.7;">
+                    <strong style="color: var(--color-accent-red);">Co zyskasz?</strong><br>
+                    Jasność co do dalszych kroków, poczucie bycia wysłuchanym oraz wstępny plan działania oparty na Twoich zasobach.
+                </p>
+                
+                <div style="background: rgba(219, 15, 49, 0.05); padding: 1rem; border-radius: 6px; border-left: 3px solid var(--color-accent-red);">
+                    <p style="margin: 0; font-size: 0.95rem;">
+                        <strong>Czas trwania:</strong> 60 minut<br>
+                        <strong>Cena:</strong> 200 zł
+                    </p>
+                </div>
             </div>
             
             <div class="service-card" style="border: 1px solid #eee; padding: 2rem; border-radius: 8px;">
@@ -40,4 +61,5 @@ permalink: /oferta/
             </div>
         </div>
     </div>
+
 </section>
