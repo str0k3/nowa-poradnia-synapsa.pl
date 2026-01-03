@@ -46,7 +46,7 @@ permalink: /oferta/
             </div>
             
             <div class="service-card" style="border: 1px solid #eee; padding: 2rem; border-radius: 8px;">
-                <h3 style="color: var(--color-accent-purple); margin-bottom: 1rem;">Terapia indywidualna</h3>
+                <h3 style="color: var(--color-accent-purple); margin-bottom: 1rem;">Psychoterapia indywidualna</h3>
                 
                 <p style="margin-bottom: 1rem; line-height: 1.7;">
                     Regularne spotkania dla dzieci, młodzieży i młodych dorosłych, którzy mierzą się z <strong>wyzwaniami dorastania, kryzysami emocjonalnymi lub trudnościami w relacjach</strong>, podczas których wspólnie odkrywamy Twoje zasoby i mocne strony oraz uczymy się nowych umiejętności.
