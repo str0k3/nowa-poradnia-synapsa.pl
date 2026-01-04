@@ -307,7 +307,7 @@ footer a {
 .social-link img {
     width: 28px;
     height: 28px;
-    filter: brightness(0) invert(1);
+/*    filter: brightness(0) invert(1); */
 }
 
 .footer-links {
