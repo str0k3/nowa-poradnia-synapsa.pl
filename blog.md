@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Blog
+title: Warto wiedzieć
 permalink: /blog/
 ---
 
 <section class="blog-section" style="padding: 4rem 0;">
     <div class="container">
-        <h1 class="text-center">Blog</h1>
+        <h1 class="text-center">Warto wiedzieć</h1>
         <p class="text-center" style="max-width: 600px; margin: 0 auto 3rem auto;">
-            Artykuły, porady i ciekawostki ze świata psychologii dziecięcej.
+            Artykuły, porady i ciekawostki ze świata psychologii.
         </p>
         
         <div class="posts-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
