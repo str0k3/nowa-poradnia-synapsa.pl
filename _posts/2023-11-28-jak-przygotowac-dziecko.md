@@ -12,7 +12,7 @@ categories: [porady, pierwsza-wizyta]
         
         <p style="margin-bottom: 2rem;">Pierwsze spotkanie z psychologiem to ważny moment, który może budzić różne emocje – od nadziei na zmianę, po naturalny niepokój przed nieznanym. W naszym gabinecie dbamy o to, aby każdy – zarówno rodzic, jak i młody człowiek – czuł się bezpiecznie i otrzymał potrzebne wsparcie już od progu.</p>
         
-        <h2 style="color: var(--color-accent-blue);">Pierwsze spotkanie: Kto powinien się pojawić?/h2>
+        <h2 style="color: var(--color-accent-blue);">Pierwsze spotkanie: Kto powinien się pojawić?</h2>
 
         <p>Przed wizytą warto porozmawiać z dzieckiem i wyjaśnić mu, gdzie idziecie i po co. Unikaj sformułowań, które mogą budzić lęk, np. "Pan doktor cię zbada". Zamiast tego powiedz: "Idziemy porozmawiać z panią, która pomaga dzieciom radzić sobie z różnymi sprawami".</p>
         
