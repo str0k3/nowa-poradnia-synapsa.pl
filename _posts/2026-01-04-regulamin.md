@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "REGULAMIN ŚWIADCZENIA USŁUG PSYCHOLOGICZNYCH"
+title: "Regulamin świadczenia usług psychologicznych"
 date: 2026-01-04 14:04:52 +0100
 categories: [regulamin]
 ---
