@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html lang="{{ site.lang | default: " pl" }}">
+<html lang="{{ site.lang | default: "pl" }}">
 
 <head>
     <meta charset="UTF-8">
@@ -14,7 +14,7 @@
         rel="stylesheet">
 
     <!-- Styles -->
-    <link rel="stylesheet" href="{{ " /assets/css/main.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
 
     <!-- SEO -->
     {% if jekyll.environment == 'production' %}
@@ -27,16 +27,16 @@
     <header>
         <div class="container">
             <nav>
-                <a href="{{ " /" | relative_url }}" class="logo">
+                <a href="{{ "/" | relative_url }}" class="logo">
                     <img src="{{ " /img/logo_b.webp" | relative_url }}" alt="Poradnia Synapsa Logo">
                 </a>
                 <button class="mobile-menu-toggle" aria-label="Menu">☰</button>
                 <ul class="nav-links">
-                    <li><a href="{{ " /" | relative_url }}">Strona główna</a></li>
-                    <li><a href="{{ " /o-mnie/" | relative_url }}">O mnie</a></li>
-                    <li><a href="{{ " /oferta/" | relative_url }}">Oferta</a></li>
-                    <li><a href="{{ " /blog/" | relative_url }}">Warto wiedzieć</a></li>
-                    <li><a href="{{ " /kontakt/" | relative_url }}">Kontakt</a></li>
+                    <li><a href="{{ "/" | relative_url }}">Strona główna</a></li>
+                    <li><a href="{{ "/o-mnie/" | relative_url }}">O mnie</a></li>
+                    <li><a href="{{ "/oferta/" | relative_url }}">Oferta</a></li>
+                    <li><a href="{{ "/blog/" | relative_url }}">Warto wiedzieć</a></li>
+                    <li><a href="{{ "/kontakt/" | relative_url }}">Kontakt</a></li>
                 </ul>
             </nav>
         </div>
@@ -50,7 +50,7 @@
         <div class="container">
             <div class="footer-content">
                 <p>&copy; {{ "now" | date: "%Y" }} Poradnia Psychologiczna Synapsa. Wszelkie prawa zastrzeżone.</p>
-                <p><a href="{{ " /polityka-prywatnosci/" | relative_url }}">Polityka Prywatności</a></p>
+                <p><a href="{{ "/polityka-prywatnosci/" | relative_url }}">Polityka Prywatności</a></p>
             </div>
         </div>
     </footer>
@@ -65,7 +65,7 @@
         </div>
     </div>
 
-    <script src="{{ " /assets/js/main.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
 
 </body>
 
