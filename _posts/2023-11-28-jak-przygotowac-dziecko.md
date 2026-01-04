@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Jak przygotować dziecko do pierwszej wizyty u psychologa?"
-date: 2023-11-28 12:00:00 +0100
+title: "Pierwsza wizyta w gabinecie – jak się przygotować?"
+date: 2026-01-04 13:20:34 +0100
 categories: [porady, pierwsza-wizyta]
 ---
 
@@ -10,9 +10,10 @@ categories: [porady, pierwsza-wizyta]
         <h1>{{ page.title }}</h1>
         <p style="color: #666; margin-bottom: 2rem;">{{ page.date | date: "%d.%m.%Y" }}</p>
         
-        <p>Pierwsza wizyta u psychologa może być stresująca zarówno dla dziecka, jak i dla rodzica. Warto jednak pamiętać, że jest to krok w stronę lepszego zrozumienia i wsparcia rozwoju Twojego dziecka.</p>
+        <p margin-bottom: 2rem;>Pierwsze spotkanie z psychologiem to ważny moment, który może budzić różne emocje – od nadziei na zmianę, po naturalny niepokój przed nieznanym. W naszym gabinecie dbamy o to, aby każdy – zarówno rodzic, jak i młody człowiek – czuł się bezpiecznie i otrzymał potrzebne wsparcie już od progu.</p>
         
-        <h2 style="color: var(--color-accent-blue);">Rozmowa to podstawa</h2>
+        <h2 style="color: var(--color-accent-blue);">Pierwsze spotkanie: Kto powinien się pojawić?/h2>
+
         <p>Przed wizytą warto porozmawiać z dzieckiem i wyjaśnić mu, gdzie idziecie i po co. Unikaj sformułowań, które mogą budzić lęk, np. "Pan doktor cię zbada". Zamiast tego powiedz: "Idziemy porozmawiać z panią, która pomaga dzieciom radzić sobie z różnymi sprawami".</p>
         
         <h2 style="color: var(--color-accent-green);">Bądź szczery</h2>
