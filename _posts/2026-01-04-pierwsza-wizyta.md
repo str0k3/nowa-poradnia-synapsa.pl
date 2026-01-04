@@ -3,6 +3,7 @@ layout: default
 title: "Pierwsza wizyta w gabinecie – jak się przygotować?"
 date: 2026-01-04 13:20:34 +0100
 categories: [porady, pierwsza-wizyta]
+excerpt: "Pierwsze spotkanie z psychologiem to ważny moment, który może budzić różne emocje – od nadziei na zmianę, po naturalny niepokój przed nieznanym."
 ---
 
 <article class="post-content" style="padding: 4rem 0;">

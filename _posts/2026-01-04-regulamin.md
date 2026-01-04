@@ -3,6 +3,7 @@ layout: default
 title: "Regulamin świadczenia usług psychologicznych"
 date: 2026-01-04 14:04:52 +0100
 categories: [regulamin]
+excerpt: "§1. Czas trwania i koszty spotkań §2. Zasady płatności §3. Odwoływanie wizyt i nieobecności"
 ---
 
 <article class="post-content" style="padding: 4rem 0;">
