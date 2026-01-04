@@ -46,14 +46,31 @@
         {{ content }}
     </main>
 
-    <footer>
-        <div class="container">
-            <div class="footer-content">
+<footer>
+    <div class="container">
+        <div class="footer-content">
+            <!-- Social Media Links -->
+            <div class="social-links">
+                <a href="https://www.facebook.com/your-profile" class="social-link" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+                    <img src="{{ "/img/facebook-icon.png" | relative_url }}" alt="Facebook">
+                </a>
+                <a href="https://www.instagram.com/your-profile" class="social-link" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                    <img src="{{ "/img/instagram-icon.png" | relative_url }}" alt="Instagram">
+                </a>
+            </div>
+
+            <!-- Footer Links -->
+            <div class="footer-links">
+                <a href="{{ "/polityka-prywatnosci/" | relative_url }}">Polityka Prywatności</a>
+            </div>
+
+            <!-- Copyright -->
+            <div class="footer-copyright">
                 <p>&copy; {{ "now" | date: "%Y" }} Poradnia Psychologiczna Synapsa. Wszelkie prawa zastrzeżone.</p>
-                <p><a href="{{ "/polityka-prywatnosci/" | relative_url }}">Polityka Prywatności</a></p>
             </div>
         </div>
-    </footer>
+    </div>
+</footer>
 
     <div id="cookie-consent"
         style="display: none; position: fixed; bottom: 0; left: 0; right: 0; background: #333; color: white; padding: 1rem; text-align: center; z-index: 1000;">
