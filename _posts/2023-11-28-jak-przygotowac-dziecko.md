@@ -10,7 +10,7 @@ categories: [porady, pierwsza-wizyta]
         <h1>{{ page.title }}</h1>
         <p style="color: #666; margin-bottom: 2rem;">{{ page.date | date: "%d.%m.%Y" }}</p>
         
-        <p margin-bottom: 2rem;>Pierwsze spotkanie z psychologiem to ważny moment, który może budzić różne emocje – od nadziei na zmianę, po naturalny niepokój przed nieznanym. W naszym gabinecie dbamy o to, aby każdy – zarówno rodzic, jak i młody człowiek – czuł się bezpiecznie i otrzymał potrzebne wsparcie już od progu.</p>
+        <p style="margin-bottom: 2rem;">Pierwsze spotkanie z psychologiem to ważny moment, który może budzić różne emocje – od nadziei na zmianę, po naturalny niepokój przed nieznanym. W naszym gabinecie dbamy o to, aby każdy – zarówno rodzic, jak i młody człowiek – czuł się bezpiecznie i otrzymał potrzebne wsparcie już od progu.</p>
         
         <h2 style="color: var(--color-accent-blue);">Pierwsze spotkanie: Kto powinien się pojawić?/h2>
 
