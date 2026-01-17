@@ -38,15 +38,15 @@ permalink: /kontakt/
                 <p style="margin-bottom: 1rem; line-height: 1.7; color: #555;">
                     Gabinet znajduje się na skraju miejscowości, w bezpośrednim sąsiedztwie lasu i zapewnia kameralną atmosferę i poczucie bezpieczeństwa.
                 </p>
-                
+
                 <p style="margin-bottom: 1rem; line-height: 1.7; color: #555;">
                     Dojazd z pobliskich miejscowości takich jak Tarnowskie Góry, Lubliniec czy Koszęcin zajmuje zaledwie ok. 15 minut.
                 </p>
-                
+
                 <p style="margin-bottom: 0.5rem; line-height: 1.7; color: #555;">
                     <strong style="color: var(--color-accent-orange);">Wskazówki dojazdu:</strong>
                 </p>
-                
+
                 <ul style="margin-left: 1.5rem; line-height: 1.8; color: #555;">
                     <li style="margin-bottom: 0.5rem;">Jadąc od strony Tworoga, <strong>zaraz za</strong> wysepką spowalniającą ruch skręć <strong>w lewo</strong>.</li>
                     <li style="margin-bottom: 0.5rem;">Jadąc od strony Koszęcina, <strong>przed</strong> wysepką spowalniającą ruch skręć <strong>w prawo</strong>.</li>
@@ -54,4 +54,5 @@ permalink: /kontakt/
             </div>
         </div>
     </div>
+
 </section>
